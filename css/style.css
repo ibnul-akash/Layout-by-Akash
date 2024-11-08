@@ -1,0 +1,52 @@
+.header {
+height: 100px;
+background-color: #FE3282;
+}
+
+.container {
+  overflow: hidden;
+
+}
+
+.blog {
+  float: left;
+  width: 60%;
+  height: 200px;
+  background-color: #FF7727;
+}
+
+.contact {
+  float: right;
+  width: 40%;
+  height: 200px;
+  background-color: #FEBD55;
+}
+.wrapper {
+  overflow: hidden;
+  margin: auto;
+}
+
+.item1 {
+  width: 30%;
+  float: left;
+  height: 100px;
+  background-color: #0003c1;
+}
+.item2 {
+  width: 40%;
+  float: left;
+  height: 100px;
+  background-color: #14156d;
+}
+.item3 {
+  width: 30%;
+  float: left;
+  height: 100px;
+  background-color: #191a40;
+}
+
+
+.footer {
+  height: 100px;
+  background-color: #6061AB;
+}
